@@ -69,12 +69,12 @@ body {
         }
         
         #diminuir-fonte {
-        background-color: #FF8C00;
+        background-color: #1900ff;
         color: white;
         }
         
         #diminuir-fonte:hover {
-        background-color: #E07B00;
+        background-color: #0a3ce0;
         }
         
         :focus {
